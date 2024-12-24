@@ -1,0 +1,8 @@
+This Projects involves creating a real-time ticketing system using Java, Spring Boot, and 
+multithreading. The system simulates customers purchasing tickets and vendors releasing them 
+concurrently, with proper synchronization to avoid issues like race conditions. Both customers 
+and vendors operate as separate threads, dynamically adjusting ticket retrieval and release rates. 
+The project also includes command-line interaction, allowing users to start and stop the system 
+while setting key parameters such as ticket capacity. Additionally, ticket details are saved in JSON 
+format to ensure data persistence, showcasing practical skills in concurrency and server-side 
+development. 
